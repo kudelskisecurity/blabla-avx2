@@ -29,5 +29,5 @@ make
 
 ## Authors
 
-Guillaume Endignoux, while intern at Kudelski Security
+[Guillaume Endignoux](https://github.com/gendx), while intern at Kudelski Security
 
