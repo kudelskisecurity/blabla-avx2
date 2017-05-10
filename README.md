@@ -2,10 +2,10 @@
 
 This project is an optimized implementation of [BlaBla](https://github.com/veorq/blabla) for CPUs supporting SSE2, SSSE3 or AVX2 instructions.
 A reference C implementation is also provided for comparison. Another
-reference C implementation was written by [Frank
+reference C implementation was written [by Frank
 Denis](https://github.com/jedisct1/blabla).
 
-The optimization strategy is inspired by the [AVX2 ChaCha implementation](https://github.com/sneves/chacha-avx2) by Samuel Neves.
+The optimization strategy is inspired by the AVX2 ChaCha implementation [by Samuel Neves](https://github.com/sneves/chacha-avx2).
 
 
 ## Benchmarks
