@@ -109,7 +109,7 @@ void bench ()
             (double)median[BENCH_MAXLEN] / (double)BENCH_MAXLEN);
     printf ("#long     long   %7.2f\n",
             (double)(median[BENCH_MAXLEN] - median[BENCH_MAXLEN / 2]) /
-            (double)BENCH_MAXLEN / 2);
+            (double)(BENCH_MAXLEN / 2));
     printf ("checksum: %02x\n", checksum);
 }
 
